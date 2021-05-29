@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca60a294.chunk.css",
-    "main.js": "/static/js/main.052537aa.chunk.js",
-    "main.js.map": "/static/js/main.052537aa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b31c1702.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b31c1702.js.map",
+    "main.css": "/static/css/main.c72a3b6c.chunk.css",
+    "main.js": "/static/js/main.7fa114b9.chunk.js",
+    "main.js.map": "/static/js/main.7fa114b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ebc0021f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ebc0021f.js.map",
     "static/css/2.bd9c9a0b.chunk.css": "/static/css/2.bd9c9a0b.chunk.css",
-    "static/js/2.55020708.chunk.js": "/static/js/2.55020708.chunk.js",
-    "static/js/2.55020708.chunk.js.map": "/static/js/2.55020708.chunk.js.map",
-    "static/js/3.21a38765.chunk.js": "/static/js/3.21a38765.chunk.js",
-    "static/js/3.21a38765.chunk.js.map": "/static/js/3.21a38765.chunk.js.map",
+    "static/js/2.2550d5a6.chunk.js": "/static/js/2.2550d5a6.chunk.js",
+    "static/js/2.2550d5a6.chunk.js.map": "/static/js/2.2550d5a6.chunk.js.map",
+    "static/js/3.16520d59.chunk.js": "/static/js/3.16520d59.chunk.js",
+    "static/js/3.16520d59.chunk.js.map": "/static/js/3.16520d59.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.bd9c9a0b.chunk.css.map": "/static/css/2.bd9c9a0b.chunk.css.map",
-    "static/css/main.ca60a294.chunk.css.map": "/static/css/main.ca60a294.chunk.css.map",
-    "static/js/2.55020708.chunk.js.LICENSE.txt": "/static/js/2.55020708.chunk.js.LICENSE.txt",
+    "static/css/main.c72a3b6c.chunk.css.map": "/static/css/main.c72a3b6c.chunk.css.map",
+    "static/js/2.2550d5a6.chunk.js.LICENSE.txt": "/static/js/2.2550d5a6.chunk.js.LICENSE.txt",
     "static/media/alarm.png": "/static/media/alarm.f850ff35.png",
-    "static/media/App.scss": "/static/media/dashboard.5f48d40c.png",
+    "static/media/App.scss": "/static/media/mark2.3a7a3716.svg",
+    "static/media/dashboard.png": "/static/media/dashboard.5f48d40c.png",
     "static/media/icon1.svg": "/static/media/icon1.00bb3a53.svg",
     "static/media/icon2.svg": "/static/media/icon2.07d8fcb8.svg",
     "static/media/icon3.svg": "/static/media/icon3.91891e8b.svg",
@@ -29,10 +30,10 @@
     "static/media/toro-hub.png": "/static/media/toro-hub.6b2dd358.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b31c1702.js",
+    "static/js/runtime-main.ebc0021f.js",
     "static/css/2.bd9c9a0b.chunk.css",
-    "static/js/2.55020708.chunk.js",
-    "static/css/main.ca60a294.chunk.css",
-    "static/js/main.052537aa.chunk.js"
+    "static/js/2.2550d5a6.chunk.js",
+    "static/css/main.c72a3b6c.chunk.css",
+    "static/js/main.7fa114b9.chunk.js"
   ]
 }
